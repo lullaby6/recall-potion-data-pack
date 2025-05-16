@@ -2,7 +2,7 @@
 
 [![Latest](https://img.shields.io/github/v/release/lullaby6/recall-potion-data-pack?color=blueviolet&logo=github)](https://github.com/lullaby6/recall-potion-data-pack/releases)
 [![Discord](https://img.shields.io/discord/1327308441324097681?label=discord&color=blue&logo=discord)](https://discord.gg/5UdcDa5xNC)
-[![Modrinth](https://img.shields.io/modrinth/dt/recall-potion?label=modrinth&logo=modrinth)](https://modrinth.com/datapack/ly-recall-potion)
+[![Modrinth](https://img.shields.io/modrinth/dt/ly-recall-potion?label=modrinth&logo=modrinth)](https://modrinth.com/datapack/ly-recall-potion)
 [![License](https://img.shields.io/github/license/lullaby6/recall-potion-data-pack)](https://github.com/lullaby6/recall-potion-data-pack/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/lullaby6/recall-potion-data-pack?color=orange&logo=github)](https://github.com/lullaby6/recall-potion-data-pack/issues)
 [![Code Size](https://img.shields.io/github/languages/code-size/lullaby6/recall-potion-data-pack?color=purple&logoColor=white)](https://github.com/lullaby6/recall-potion-data-pack)
